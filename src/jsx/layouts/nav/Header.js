@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 
 import { Link } from 'react-router-dom';
-/// Scroll
-import PerfectScrollbar from 'react-perfect-scrollbar';
+// /// Scroll
+// import PerfectScrollbar from 'react-perfect-scrollbar';
 
 /// Image
 import profile from '../../../images/user.jpg';

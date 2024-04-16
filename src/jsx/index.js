@@ -108,7 +108,7 @@ import Error403 from "./pages/Error403";
 import Error404 from "./pages/Error404";
 import Error500 from "./pages/Error500";
 import Error503 from "./pages/Error503";
-import Setting from "./layouts/Setting";
+// import Setting from "./layouts/Setting";
 import { ThemeContext } from "../context/ThemeContext";
 
 const Markup = () => {
@@ -216,11 +216,11 @@ const Markup = () => {
     // { url: "page-error-500", component: Error500 },
     // { url: "page-error-503", component: Error503 },
   ];
-  let path = window.location.pathname;
-  path = path.split("/");
-  path = path[path.length - 1];
+  // let path = window.location.pathname;
+  // path = path.split("/");
+  // path = path[path.length - 1];
 
-  let pagePath = path.split("-").includes("page");
+  // let pagePath = path.split("-").includes("page");
   return (
     <>     
        <Routes>
@@ -241,7 +241,7 @@ const Markup = () => {
               ))}
           </Route>
           </Routes>
-        <Setting />
+        {/* <Setting /> */}
 	      <ScrollToTop />
     </>
   );

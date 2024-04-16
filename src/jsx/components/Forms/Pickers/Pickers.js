@@ -16,7 +16,7 @@ import TimePicker from './TimePicker';
 //import MetarialDateAndTime from "./MetarialDateAndTime";
 //import MetarialTime from "./MetarialTime";
 //import ColorPicker from "./Color";
-import Gradient from "./LinearGradientPicker";
+// import Gradient from "./LinearGradientPicker";
 
 import PageTitle from "../../../layouts/PageTitle";
 

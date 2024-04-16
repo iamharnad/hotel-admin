@@ -22,22 +22,22 @@ const initialState = {
 
 const SideBar = () => {
   // var d = new Date();
-  // const {
-  //   iconHover,
-  //   sidebarposition,
-  //   headerposition,
-  //   sidebarLayout,
-  //   ChangeIconSidebar,
-  // } = useContext(ThemeContext);
+  const {
+    iconHover,
+    sidebarposition,
+    headerposition,
+    sidebarLayout,
+    ChangeIconSidebar,
+  } = useContext(ThemeContext);
 
   const [state, setState] = useReducer(reducer, initialState);
 
   //For scroll
 
-  let handleheartBlast = document.querySelector('.heart');
-  function heartBlast() {
-    return handleheartBlast.classList.toggle('heart-blast');
-  }
+  // let handleheartBlast = document.querySelector('.heart');
+  // function heartBlast() {
+  //   return handleheartBlast.classList.toggle('heart-blast');
+  // }
 
   const [hideOnScroll, setHideOnScroll] = useState(true);
   useScrollPosition(

@@ -9,10 +9,10 @@ import { ThemeContext } from '../../../context/ThemeContext';
 import RoomList from './RoomList';
 
 const Home = () => {
-  const { changeBackground } = useContext(ThemeContext);
+  const { changeBackground } = useContext(ThemeContext); // eslint-disable-line react-hooks/exhaustive-deps
   useEffect(() => {
     changeBackground({ value: 'light', label: 'Light' });
-  }, []);
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   return (
     <>

@@ -18,8 +18,7 @@ export function NavMenuToggle() {
 
 const NavHader = () => {
   const [toggle, setToggle] = useState(false);
-  const { navigationHader, openMenuToggle, background } =
-    useContext(ThemeContext);
+  const { navigationHader, background } = useContext(ThemeContext);
   return (
     <div className='nav-header'>
       <Link to='/dashboard' className='brand-logo'>
