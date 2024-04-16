@@ -31,62 +31,62 @@ import Theme5 from "./components/Dashboard/Demo/Theme5";
 import Theme6 from "./components/Dashboard/Demo/Theme6";
 
 
-/// App
-import AppProfile from "./components/AppsMenu/AppProfile/AppProfile";
-import Compose from "./components/AppsMenu/Email/Compose/Compose";
-import Inbox from "./components/AppsMenu/Email/Inbox/Inbox";
-import Read from "./components/AppsMenu/Email/Read/Read";
-import Calendar from "./components/AppsMenu/Calendar/Calendar";
-import PostDetails from "./components/AppsMenu/AppProfile/PostDetails";
+// /// App
+// import AppProfile from "./components/AppsMenu/AppProfile/AppProfile";
+// import Compose from "./components/AppsMenu/Email/Compose/Compose";
+// import Inbox from "./components/AppsMenu/Email/Inbox/Inbox";
+// import Read from "./components/AppsMenu/Email/Read/Read";
+// import Calendar from "./components/AppsMenu/Calendar/Calendar";
+// import PostDetails from "./components/AppsMenu/AppProfile/PostDetails";
 
-/// Product List
-import ProductGrid from "./components/AppsMenu/Shop/ProductGrid/ProductGrid";
-import ProductList from "./components/AppsMenu/Shop/ProductList/ProductList";
-import ProductDetail from "./components/AppsMenu/Shop/ProductGrid/ProductDetail";
-import Checkout from "./components/AppsMenu/Shop/Checkout/Checkout";
-import Invoice from "./components/AppsMenu/Shop/Invoice/Invoice";
-import ProductOrder from "./components/AppsMenu/Shop/ProductOrder";
-import Customers from "./components/AppsMenu/Shop/Customers/Customers";
+// /// Product List
+// import ProductGrid from "./components/AppsMenu/Shop/ProductGrid/ProductGrid";
+// import ProductList from "./components/AppsMenu/Shop/ProductList/ProductList";
+// import ProductDetail from "./components/AppsMenu/Shop/ProductGrid/ProductDetail";
+// import Checkout from "./components/AppsMenu/Shop/Checkout/Checkout";
+// import Invoice from "./components/AppsMenu/Shop/Invoice/Invoice";
+// import ProductOrder from "./components/AppsMenu/Shop/ProductOrder";
+// import Customers from "./components/AppsMenu/Shop/Customers/Customers";
 
-/// Charts
-import SparklineChart from "./components/charts/Sparkline";
-import ChartJs from "./components/charts/Chartjs";
-//import Chartist from "./components/charts/chartist";
-import RechartJs from "./components/charts/rechart";
-import ApexChart from "./components/charts/apexcharts";
+// /// Charts
+// import SparklineChart from "./components/charts/Sparkline";
+// import ChartJs from "./components/charts/Chartjs";
+// //import Chartist from "./components/charts/chartist";
+// import RechartJs from "./components/charts/rechart";
+// import ApexChart from "./components/charts/apexcharts";
 
-/// Bootstrap
-import UiAlert from "./components/bootstrap/Alert";
-import UiAccordion from "./components/bootstrap/Accordion";
-import UiBadge from "./components/bootstrap/Badge";
-import UiButton from "./components/bootstrap/Button";
-import UiModal from "./components/bootstrap/Modal";
-import UiButtonGroup from "./components/bootstrap/ButtonGroup";
-import UiListGroup from "./components/bootstrap/ListGroup";
-import UiCards from "./components/bootstrap/Cards";
-import UiCarousel from "./components/bootstrap/Carousel";
-import UiDropDown from "./components/bootstrap/DropDown";
-import UiPopOver from "./components/bootstrap/PopOver";
-import UiProgressBar from "./components/bootstrap/ProgressBar";
-import UiTab from "./components/bootstrap/Tab";
-import UiPagination from "./components/bootstrap/Pagination";
-import UiGrid from "./components/bootstrap/Grid";
-import UiTypography from "./components/bootstrap/Typography";
+// /// Bootstrap
+// import UiAlert from "./components/bootstrap/Alert";
+// import UiAccordion from "./components/bootstrap/Accordion";
+// import UiBadge from "./components/bootstrap/Badge";
+// import UiButton from "./components/bootstrap/Button";
+// import UiModal from "./components/bootstrap/Modal";
+// import UiButtonGroup from "./components/bootstrap/ButtonGroup";
+// import UiListGroup from "./components/bootstrap/ListGroup";
+// import UiCards from "./components/bootstrap/Cards";
+// import UiCarousel from "./components/bootstrap/Carousel";
+// import UiDropDown from "./components/bootstrap/DropDown";
+// import UiPopOver from "./components/bootstrap/PopOver";
+// import UiProgressBar from "./components/bootstrap/ProgressBar";
+// import UiTab from "./components/bootstrap/Tab";
+// import UiPagination from "./components/bootstrap/Pagination";
+// import UiGrid from "./components/bootstrap/Grid";
+// import UiTypography from "./components/bootstrap/Typography";
 
-/// Plugins
-import Select2 from "./components/PluginsMenu/Select2/Select2";
-//import Nestable from "./components/PluginsMenu/Nestable/Nestable";
-//import MainNouiSlider from "./components/PluginsMenu/NouiSlider/MainNouiSlider";
-import MainSweetAlert from "./components/PluginsMenu/SweetAlert/SweetAlert";
-import Toastr from "./components/PluginsMenu/Toastr/Toastr";
-import JqvMap from "./components/PluginsMenu/JqvMap/JqvMap";
-import Lightgallery from "./components/PluginsMenu/Lightgallery/Lightgallery";
+// /// Plugins
+// import Select2 from "./components/PluginsMenu/Select2/Select2";
+// //import Nestable from "./components/PluginsMenu/Nestable/Nestable";
+// //import MainNouiSlider from "./components/PluginsMenu/NouiSlider/MainNouiSlider";
+// import MainSweetAlert from "./components/PluginsMenu/SweetAlert/SweetAlert";
+// import Toastr from "./components/PluginsMenu/Toastr/Toastr";
+// import JqvMap from "./components/PluginsMenu/JqvMap/JqvMap";
+// import Lightgallery from "./components/PluginsMenu/Lightgallery/Lightgallery";
 
-//Redux
-import Todo from "./pages/Todo";
+// //Redux
+// import Todo from "./pages/Todo";
 
-/// Widget
-import Widget from "./pages/Widget";
+// /// Widget
+// import Widget from "./pages/Widget";
 
 /// Table
 import SortingTable from "./components/table/SortingTable/SortingTable";

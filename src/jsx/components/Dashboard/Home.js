@@ -1,11 +1,11 @@
 import React, { useContext, useEffect } from 'react';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 
 //Import Components
 import { ThemeContext } from '../../../context/ThemeContext';
-import ReservationStats from './Dashboard/ReservationStats';
-import LatestReview from './Dashboard/LatestReview';
-import RecentBooking from './Dashboard/RecentBooking';
+// import ReservationStats from './Dashboard/ReservationStats';
+// import LatestReview from './Dashboard/LatestReview';
+// import RecentBooking from './Dashboard/RecentBooking';
 import RoomList from './RoomList';
 
 const Home = () => {

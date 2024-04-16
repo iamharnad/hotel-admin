@@ -1,6 +1,6 @@
 import React from 'react';
 
-import ReviewSlider from './Reviews/ReviewSlider';
+// import ReviewSlider from './Reviews/ReviewSlider';
 import CustomerTable from './Reviews/CustomerTable';
 
 const Reviews = () => {
