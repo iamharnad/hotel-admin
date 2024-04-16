@@ -13,13 +13,13 @@ const Home = () => {
     changeNavigationHader,
     chnageSidebarColor,
     changePrimaryColor,
-  } = useContext(ThemeContext);
+  } = useContext(ThemeContext); // eslint-disable-line react-hooks/exhaustive-deps
   useEffect(() => {
     changeBackground({ value: 'light', label: 'Light' });
     changeNavigationHader('color_3');
     chnageSidebarColor('color_3');
     changePrimaryColor('color_3');
-  }, []);
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   return (
     <>
