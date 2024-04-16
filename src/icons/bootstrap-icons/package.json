@@ -35,7 +35,7 @@
   "description": "Official open source SVG icon library for Bootstrap",
   "devDependencies": {
     "@twbs/svg-sprite": "^1.6.1",
-    "autoprefixer": "^10.2.4",
+    "autoprefixer": "^10.4.5",
     "chalk": "^4.1.0",
     "cheerio": "^1.0.0-rc.5",
     "cross-env": "^7.0.3",
