@@ -26,7 +26,7 @@ export const MenuList = [
       //     to: 'concierge-list',
       // },
       {
-        title: 'Room List',
+        title: 'Update Price',
         to: 'room-list',
       },
       {
